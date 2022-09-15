@@ -1,7 +1,9 @@
 # modernJS-and-React Study
 
 ✔ [Study Main Repository](https://github.com/wjs5025/modernJS-and-React)
+
 ✔ [1회 스터디 (모던 자바스크립트 Deep Dive 완독 세미나) 폴더]()
+
 ✔ [2회 스터디 (React Docs 완독 세미나 & TypeScript를 활용한 사이드 프로젝트) 폴더]()
 
 ## 개요
