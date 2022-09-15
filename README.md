@@ -2,9 +2,9 @@
 
 ✔ [Study Main Repository](https://github.com/wjs5025/modernJS-and-React)
 
-✔ [1회 스터디 (모던 자바스크립트 Deep Dive 완독 세미나) 폴더]()
+✔ [1회 스터디 (모던 자바스크립트 Deep Dive 완독 세미나) 폴더](https://github.com/wjs5025/modernJS-and-React/tree/main/1%ED%9A%8C.%20%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%99%84%EB%8F%85%20%EC%84%B8%EB%AF%B8%EB%82%98)
 
-✔ [2회 스터디 (React Docs 완독 세미나 & TypeScript를 활용한 사이드 프로젝트) 폴더]()
+✔ [2회 스터디 (React Docs 완독 세미나 & TypeScript를 활용한 사이드 프로젝트) 폴더](https://github.com/wjs5025/modernJS-and-React/tree/main/2%ED%9A%8C.%20React%20Docs%20%EC%99%84%EB%8F%85%20%EC%84%B8%EB%AF%B8%EB%82%98%20%26%20TypeScript%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ## 개요
 
