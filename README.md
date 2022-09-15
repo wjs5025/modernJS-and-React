@@ -40,9 +40,7 @@
 
     <details>
     <summary>
-    <div markdown = "1">
-    ### 목차 [수행여부(발표자) 0. 챕터명]
-    </div>
+    챕터 목록 [수행여부(발표자) 0. 챕터명]
     </summary>
     
     <div markdown = "1">
