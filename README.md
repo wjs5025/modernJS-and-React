@@ -56,7 +56,7 @@
     - [ ] (학률) 12. 함수
     - [ ] (인혁) 13. 타입 체크
     - [ ] (인혁) 14. 프로토타입
-    - [ ] (학률) 15. 스코프
+    - [ ](학률) 15. 스코프
     - [ ] 16. 보다 안정적인 자바스크립트 개발 환경을 위한 Strict mode
     - [ ] 17. 함수 호출 방식에 의해 결정되는 this
     - [ ] 18. 실행 컨텍스트와 자바스크립트의 동작 원리
@@ -79,7 +79,7 @@
     - [ ] 35. 비동기식 처리 모델과 Ajax
     - [ ] 36. REST(Representational State Transfer) API
     - [ ] 37. Single Page Application & Routing
-    <div>
+    </div>
     </details>
 
 </details>
