@@ -36,7 +36,7 @@
 - 모던 자바스크립트 Deep Dive (도서 또는 온라인 자료)를 토대로 매주 개인 학습 및 세미나를 진행한다.
 - 스터디 참여자는 매주 2개 챕터를 발표하고 다른 2개의 챕터를 청강한다.
 - 발표자는 청강자가 잘 이해하도록 자료를 준비하고, 청강자는 청강한 내용을 기록한다.
-- 모든 발표자료와 기록물은 [1회 스터디 폴더]()에 저장한다.
+- 모든 발표자료와 기록물은 [1회 스터디 폴더](https://github.com/wjs5025/modernJS-and-React/tree/main/1%ED%9A%8C.%20%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%99%84%EB%8F%85%20%EC%84%B8%EB%AF%B8%EB%82%98)에 저장한다.
 - 2022.09.13 전에는 아래 챕터 목록의 "11. 객체와 변경불가성(Immutability)"까지 모두 읽고, 이후 "12. 함수"부터 차례로 세미나를 진행한다.
 - 질문 또는 공유할만한 지식은 [Study Main Repository](https://github.com/wjs5025/modernJS-and-React) 내 [Issues](https://github.com/wjs5025/modernJS-and-React/issues)에서 관리한다.
 
