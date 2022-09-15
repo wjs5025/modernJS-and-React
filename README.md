@@ -39,7 +39,11 @@
 - 질문 또는 공유할만한 지식은 [Study Main Repository](https://github.com/wjs5025/modernJS-and-React) 내 [Issues](https://github.com/wjs5025/modernJS-and-React/issues)에서 관리한다.
 
     <details>
-    <summary >목차</summary>
+    <summary>
+    <div markdown = "1">
+    ### 목차 [수행여부(발표자) 0. 챕터명]
+    </div>
+    </summary>
     
     <div markdown = "1">
 
