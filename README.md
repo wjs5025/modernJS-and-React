@@ -1,6 +1,7 @@
 # modernJS-and-React Study
 
 ✔ [Study Main Repository](https://github.com/wjs5025/modernJS-and-React)
+
 ✔ [1회차 스터디 기록용 Youtube 채널](https://www.youtube.com/channel/UCdUqEj-gmY_sbgHw9iqdSlg)
 
 ✔ [1회 스터디 (모던 자바스크립트 Deep Dive 완독 세미나) 폴더](https://github.com/wjs5025/modernJS-and-React/tree/main/1%ED%9A%8C.%20%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%99%84%EB%8F%85%20%EC%84%B8%EB%AF%B8%EB%82%98)
