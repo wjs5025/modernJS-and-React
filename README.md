@@ -81,13 +81,13 @@
   - [x] (인혁) 30. 배열 고차 함수
   - [x] (학률) 31. 문서 객체 모델(Document Object Model)
   - [ ] (개별) 32. 동기식 처리 모델 vs 비동기식 처리 모델
-  - [ ] (학률) 33. 이벤트 ---10/18 예정
+  - [x] (학률) 33. 이벤트
   - [ ] (개별) 34. 디바이스의 방향 정보를 다루는 자바스크립트 이벤트
-  - [ ] (인혁) 35. 비동기식 처리 모델과 Ajax ---10/18 예정
-  - [ ] 36. REST(Representational State Transfer) API
-  - [ ] 37. Single Page Application & Routing
-    </div>
-    </details>
+  - [x] (인혁) 35. 비동기식 처리 모델과 Ajax
+  - [ ] (인혁) 36. REST(Representational State Transfer) API ---10/24 예정
+  - [ ] (학률) 37. Single Page Application & Routing ---10/24 예정
+  </div>
+  </details>
 
 </details>
 
