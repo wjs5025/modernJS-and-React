@@ -88,12 +88,14 @@
   - [x] (학률) 37. Single Page Application & Routing
   </div>
   </details>
+
   <details>
     <summary>
     _ECMAScript6 (ES6)_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
     </summary>
     
     <div markdown = "1">
+    
   - [ ] (학률) 1. let, const와 블록 레벨 스코프 ---- 11/03 진행 예정
   - [ ] (개별) 2. 템플릿 리터럴 ---- 11/03 진행 예정
   - [ ] (인혁) 3. 화살표 함수 ---- 11/03 진행 예정
