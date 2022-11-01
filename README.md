@@ -70,15 +70,15 @@
 - [x] (인혁) 35. 비동기식 처리 모델과 Ajax
 - [x] (인혁) 36. REST(Representational State Transfer) API
 - [x] (학률) 37. Single Page Application & Routing
-</div>
-</details>
+  </div>
+  </details>
 
-  <details>
-    <summary>
-    _ECMAScript6 (ES6)_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
-    </summary>
-    
-    <div markdown = "2">
+    <details>
+      <summary>
+      _ECMAScript6 (ES6)_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
+      </summary>
+      
+      <div markdown = "2">
 
 - [ ] (학률) 1. let, const와 블록 레벨 스코프 ---- 11/03 진행 예정
 - [ ] (개별) 2. 템플릿 리터럴 ---- 11/03 진행 예정
@@ -95,9 +95,7 @@
 - [ ] () 13. Babel과 Webpack을 이용한 ES6 환경 구축 (1)
 - [ ] () 14. Babel과 Webpack을 이용한 ES6 환경 구축 (2)
 
-  </div>
-  </details>
-
+</div>
 </details>
 
 <details>
@@ -115,6 +113,8 @@
 - 모든 발표자료와 기록물은 [1회 스터디 폴더](https://github.com/wjs5025/modernJS-and-React/tree/main/1%ED%9A%8C.%20%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20Deep%20Dive%20%EC%99%84%EB%8F%85%20%EC%84%B8%EB%AF%B8%EB%82%98)에 저장한다.
 - 2022.09.13 전에는 아래 챕터 목록의 "11. 객체와 변경불가성(Immutability)"까지 모두 읽고, 이후 "12. 함수"부터 차례로 세미나를 진행한다.
 - 질문 또는 공유할만한 지식은 [Study Main Repository](https://github.com/wjs5025/modernJS-and-React) 내 [Issues](https://github.com/wjs5025/modernJS-and-React/issues)에서 관리한다.
+
+</details>
 
 ## 2회. React Docs 완독 세미나 & TypeScript를 활용한 사이드 프로젝트
 
