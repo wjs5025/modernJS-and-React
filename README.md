@@ -44,7 +44,7 @@
 
     <details>
     <summary>
-    챕터 목록 ex) 수행여부 (발표자) 0. 챕터 명
+    _JavaScript_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
     </summary>
     
     <div markdown = "1">
@@ -84,8 +84,31 @@
   - [x] (학률) 33. 이벤트
   - [ ] (개별) 34. 디바이스의 방향 정보를 다루는 자바스크립트 이벤트
   - [x] (인혁) 35. 비동기식 처리 모델과 Ajax
-  - [ ] (인혁) 36. REST(Representational State Transfer) API ---10/24 예정
-  - [ ] (학률) 37. Single Page Application & Routing ---10/24 예정
+  - [x] (인혁) 36. REST(Representational State Transfer) API
+  - [x] (학률) 37. Single Page Application & Routing
+  </div>
+  </details>
+  <details>
+    <summary>
+    _ECMAScript6 (ES6)_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
+    </summary>
+    
+    <div markdown = "1">
+  - [ ] (학률) 1. let, const와 블록 레벨 스코프 **---- 11/03 진행 예정**
+  - [ ] (개별) 2. 템플릿 리터럴 **---- 11/03 진행 예정**
+  - [ ] (인혁) 3. 화살표 함수 **---- 11/03 진행 예정**
+  - [ ] () 4. 매개변수 기본값, Rest 파라미터, Spread 문법, Rest/Spread 프로퍼티
+  - [ ] () 5. 객체 리터럴 프로퍼티 기능 확장
+  - [ ] () 6. 디스트럭처링
+  - [ ] () 7. 클래스
+  - [ ] () 8. 모듈
+  - [ ] () 9. 프로미스
+  - [ ] () 10. 7번째 타입 심볼(Symbol)
+  - [ ] () 11. 이터레이션과 for...of 문
+  - [ ] () 12. 제너레이터와 async/await
+  - [ ] () 13. Babel과 Webpack을 이용한 ES6 환경 구축 (1)
+  - [ ] () 14. Babel과 Webpack을 이용한 ES6 환경 구축 (2)
+
   </div>
   </details>
 
