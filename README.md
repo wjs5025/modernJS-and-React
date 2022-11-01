@@ -30,8 +30,6 @@
     <summary>
     _JavaScript_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
     </summary>
-    
-    <div markdown = "1">
 
 - [x] (개별) 1. 기본 개념과 동작 원리 이해의 중요성
 - [x] (개별) 2. 자바스크립트란?
@@ -70,15 +68,13 @@
 - [x] (인혁) 35. 비동기식 처리 모델과 Ajax
 - [x] (인혁) 36. REST(Representational State Transfer) API
 - [x] (학률) 37. Single Page Application & Routing
-  </div>
+
   </details>
 
     <details>
       <summary>
       _ECMAScript6 (ES6)_ 챕터 ex) 수행여부 (발표자) 0. 챕터 명
       </summary>
-      
-      <div markdown = "2">
 
 - [ ] (학률) 1. let, const와 블록 레벨 스코프 ---- 11/03 진행 예정
 - [ ] (개별) 2. 템플릿 리터럴 ---- 11/03 진행 예정
@@ -94,8 +90,6 @@
 - [ ] () 12. 제너레이터와 async/await
 - [ ] () 13. Babel과 Webpack을 이용한 ES6 환경 구축 (1)
 - [ ] () 14. Babel과 Webpack을 이용한 ES6 환경 구축 (2)
-
-</div>
 </details>
 
 <details>
