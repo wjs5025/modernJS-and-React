@@ -1,9 +1,5 @@
-const arr = [1, 2, 3];
+function Foo() {}
 
-let example = arr.map(function (el) {
-  return el * el;
-});
-console.log(example);
+let foo = new Foo();
 
-let arrowExample = arr.map((el) => el * el);
-console.log(arrowExample);
+foo;
