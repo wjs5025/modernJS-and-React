@@ -1,5 +1,3 @@
-function Foo() {}
+const arr = [1, 2, 3, 4, 5];
 
-let foo = new Foo();
-
-foo;
+console.log(Arr);
