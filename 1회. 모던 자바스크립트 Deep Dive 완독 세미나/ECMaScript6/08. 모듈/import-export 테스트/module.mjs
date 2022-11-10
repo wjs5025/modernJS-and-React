@@ -12,4 +12,4 @@ class Person {
 }
 
 // 변수, 함수 클래스를 하나의 객체로 구성하여 공개(export)
-export { pi, square, Person };
+export default pi;
