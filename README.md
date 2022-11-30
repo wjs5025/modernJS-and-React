@@ -24,7 +24,7 @@
 - 온라인 자료 / [Poiemaweb - JavaScript](https://poiemaweb.com/#:~:text=%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20Sass%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-,JavaScript,-37%20lessons)
 - 공식 문서 / [React Docs](https://ko.reactjs.org/docs/getting-started.html)
 
-## 1회. 모던 자바스크립트 Deep Dive 완독 세미나
+## 1회. 모던 자바스크립트 Deep Dive 완독 세미나 (11/27 종료)
 
 <details>
     <summary>
